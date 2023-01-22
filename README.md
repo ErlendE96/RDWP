@@ -1,22 +1,21 @@
 # Your project title
 
-![foodwebsite](https://user-images.githubusercontent.com/96021420/213921676-5025d406-9ad4-4fcb-a796-2d671582427e.png)
+![rainydaysimage](https://user-images.githubusercontent.com/96021420/213924019-efa388d7-50a7-4817-bc1f-c783aad02f89.png)
 
 
-Website used for finding healthy food recipes.
+
+Website where you can buy durable jackets.
 
 ## Description
-The main goal of the website is helping people finding healthy food recipes. The targeted audience is people of all ages and genders that wishes to eat healthy and good food, but wont waste their time looking through recipe books.
-The main content of the site will be found on the recipes page, which will contain a search bar that allows users to input an ingredient, and the site will return various dishes containing that ingredient.
-The site is built using HTML, CSS and JavaScript. The food site employs JSON API for dynamic data, which means the recipe/food content will be collected from an external site.
+The main goal of this website is to showcase and intrigue the user to buy jackets. The targeted audience is people between 18-45 with an interrest for the outdoors, aswell as extreme acitivities such as hiking/skiing. The site is built using HTML, CSS and JavaScript. The clothing site employs JSON API for dynamic data, which means the jacket data content will be collected from an external site.
 
-Good Food Mood contains 5 pages; 
+Rainydays website contains 5 pages; 
 
 -	Homepage
 -	Contact page
 -	About page
--	Recipes page
--	Weekly newsletter
+-	Women page
+-	Men page
 
 ## Built With
 
