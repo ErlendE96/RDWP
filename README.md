@@ -28,7 +28,7 @@ Rainydays website contains 5 pages;
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone https://github.com/ErlendE96/RDWP
 ```
 
 2. Install the dependencies:
@@ -39,7 +39,6 @@ npm install
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
 
 To run the app, run the following commands:
 
@@ -48,8 +47,7 @@ npm run start
 ```
 
 ## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+If you would like to contribute to the website, make sure to open a pull request so the code can be reviewed. A short summary of the changes made will be appreciated.
 
 ## Contact
 
